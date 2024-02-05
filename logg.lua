@@ -1,1 +1,1 @@
-print("skill".."issue".."real".."".."".."".."".."".."".."".."".."")
+print("skill".."issue".."real")
